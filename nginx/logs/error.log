@@ -1,0 +1,255 @@
+2022/05/11 19:07:59 [notice] 1#1: using the "epoll" event method
+2022/05/11 19:07:59 [notice] 1#1: nginx/1.20.1
+2022/05/11 19:07:59 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2022/05/11 19:07:59 [notice] 1#1: OS: Linux 3.10.0-1127.el7.x86_64
+2022/05/11 19:07:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/11 19:07:59 [notice] 1#1: start worker processes
+2022/05/11 19:07:59 [notice] 1#1: start worker process 22
+2022/05/11 19:07:59 [notice] 1#1: start worker process 23
+2022/05/11 19:07:59 [notice] 1#1: start worker process 24
+2022/05/11 19:07:59 [notice] 1#1: start worker process 25
+2022/05/11 19:08:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/11 19:08:00 [notice] 22#22: gracefully shutting down
+2022/05/11 19:08:00 [notice] 22#22: exiting
+2022/05/11 19:08:00 [notice] 22#22: exit
+2022/05/11 19:08:00 [notice] 24#24: gracefully shutting down
+2022/05/11 19:08:00 [notice] 24#24: exiting
+2022/05/11 19:08:00 [notice] 24#24: exit
+2022/05/11 19:08:00 [notice] 23#23: gracefully shutting down
+2022/05/11 19:08:00 [notice] 23#23: exiting
+2022/05/11 19:08:00 [notice] 23#23: exit
+2022/05/11 19:08:00 [notice] 25#25: gracefully shutting down
+2022/05/11 19:08:00 [notice] 25#25: exiting
+2022/05/11 19:08:00 [notice] 25#25: exit
+2022/05/11 19:08:00 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/11 19:08:00 [notice] 1#1: worker process 22 exited with code 0
+2022/05/11 19:08:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 19:08:00 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/11 19:08:00 [notice] 1#1: worker process 24 exited with code 0
+2022/05/11 19:08:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 19:08:00 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/11 19:08:00 [notice] 1#1: worker process 23 exited with code 0
+2022/05/11 19:08:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 19:08:00 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/11 19:08:00 [notice] 1#1: worker process 25 exited with code 0
+2022/05/11 19:08:00 [notice] 1#1: exit
+2022/05/11 19:08:16 [notice] 1#1: using the "epoll" event method
+2022/05/11 19:08:16 [notice] 1#1: nginx/1.20.1
+2022/05/11 19:08:16 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2022/05/11 19:08:16 [notice] 1#1: OS: Linux 3.10.0-1127.el7.x86_64
+2022/05/11 19:08:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/11 19:08:16 [notice] 1#1: start worker processes
+2022/05/11 19:08:16 [notice] 1#1: start worker process 23
+2022/05/11 19:08:16 [notice] 1#1: start worker process 24
+2022/05/11 19:08:16 [notice] 1#1: start worker process 25
+2022/05/11 19:08:16 [notice] 1#1: start worker process 26
+2022/05/11 20:57:02 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/11 20:57:03 [notice] 23#23: gracefully shutting down
+2022/05/11 20:57:03 [notice] 24#24: gracefully shutting down
+2022/05/11 20:57:03 [notice] 26#26: gracefully shutting down
+2022/05/11 20:57:03 [notice] 26#26: exiting
+2022/05/11 20:57:03 [notice] 24#24: exiting
+2022/05/11 20:57:03 [notice] 23#23: exiting
+2022/05/11 20:57:03 [notice] 25#25: gracefully shutting down
+2022/05/11 20:57:03 [notice] 26#26: exit
+2022/05/11 20:57:03 [notice] 25#25: exiting
+2022/05/11 20:57:03 [notice] 24#24: exit
+2022/05/11 20:57:03 [notice] 23#23: exit
+2022/05/11 20:57:03 [notice] 25#25: exit
+2022/05/11 20:57:03 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/11 20:57:03 [notice] 1#1: worker process 25 exited with code 0
+2022/05/11 20:57:03 [notice] 1#1: worker process 26 exited with code 0
+2022/05/11 20:57:03 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 20:57:03 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/11 20:57:03 [notice] 1#1: worker process 24 exited with code 0
+2022/05/11 20:57:03 [notice] 1#1: worker process 23 exited with code 0
+2022/05/11 20:57:03 [notice] 1#1: exit
+2022/05/11 20:59:33 [notice] 1#1: using the "epoll" event method
+2022/05/11 20:59:33 [notice] 1#1: nginx/1.20.1
+2022/05/11 20:59:33 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2022/05/11 20:59:33 [notice] 1#1: OS: Linux 3.10.0-1127.el7.x86_64
+2022/05/11 20:59:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/11 20:59:33 [notice] 1#1: start worker processes
+2022/05/11 20:59:33 [notice] 1#1: start worker process 22
+2022/05/11 20:59:33 [notice] 1#1: start worker process 23
+2022/05/11 20:59:33 [notice] 1#1: start worker process 24
+2022/05/11 20:59:33 [notice] 1#1: start worker process 25
+2022/05/11 21:00:02 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/11 21:00:02 [notice] 22#22: gracefully shutting down
+2022/05/11 21:00:02 [notice] 25#25: gracefully shutting down
+2022/05/11 21:00:02 [notice] 22#22: exiting
+2022/05/11 21:00:02 [notice] 25#25: exiting
+2022/05/11 21:00:02 [notice] 24#24: gracefully shutting down
+2022/05/11 21:00:02 [notice] 24#24: exiting
+2022/05/11 21:00:02 [notice] 22#22: exit
+2022/05/11 21:00:02 [notice] 25#25: exit
+2022/05/11 21:00:02 [notice] 24#24: exit
+2022/05/11 21:00:02 [notice] 23#23: gracefully shutting down
+2022/05/11 21:00:02 [notice] 23#23: exiting
+2022/05/11 21:00:02 [notice] 23#23: exit
+2022/05/11 21:00:02 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/11 21:00:02 [notice] 1#1: worker process 24 exited with code 0
+2022/05/11 21:00:02 [notice] 1#1: worker process 25 exited with code 0
+2022/05/11 21:00:02 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 21:00:02 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/11 21:00:02 [notice] 1#1: worker process 22 exited with code 0
+2022/05/11 21:00:02 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 21:00:02 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/11 21:00:02 [notice] 1#1: worker process 23 exited with code 0
+2022/05/11 21:00:02 [notice] 1#1: exit
+2022/05/11 21:00:58 [notice] 1#1: using the "epoll" event method
+2022/05/11 21:00:58 [notice] 1#1: nginx/1.20.1
+2022/05/11 21:00:58 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2022/05/11 21:00:58 [notice] 1#1: OS: Linux 3.10.0-1127.el7.x86_64
+2022/05/11 21:00:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/11 21:00:58 [notice] 1#1: start worker processes
+2022/05/11 21:00:58 [notice] 1#1: start worker process 22
+2022/05/11 21:00:58 [notice] 1#1: start worker process 23
+2022/05/11 21:00:58 [notice] 1#1: start worker process 24
+2022/05/11 21:00:58 [notice] 1#1: start worker process 25
+2022/05/11 21:01:11 [error] 22#22: *17 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.136, server: dnerhs.mspbs.gov.py, request: "GET /api/departamentos?pageSize=100 HTTP/1.1", upstream: "http://172.22.0.4:8080/api/departamentos?pageSize=100", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 21:01:17 [error] 22#22: *17 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.136, server: dnerhs.mspbs.gov.py, request: "GET /api/departamentos?pageSize=100 HTTP/1.1", upstream: "http://172.22.0.4:8080/api/departamentos?pageSize=100", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/responsable/crear"
+2022/05/11 21:34:13 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/11 21:34:13 [notice] 24#24: gracefully shutting down
+2022/05/11 21:34:13 [notice] 25#25: gracefully shutting down
+2022/05/11 21:34:13 [notice] 24#24: exiting
+2022/05/11 21:34:13 [notice] 25#25: exiting
+2022/05/11 21:34:13 [notice] 24#24: exit
+2022/05/11 21:34:13 [notice] 22#22: gracefully shutting down
+2022/05/11 21:34:13 [notice] 25#25: exit
+2022/05/11 21:34:13 [notice] 22#22: exiting
+2022/05/11 21:34:13 [notice] 22#22: exit
+2022/05/11 21:34:13 [notice] 23#23: gracefully shutting down
+2022/05/11 21:34:13 [notice] 23#23: exiting
+2022/05/11 21:34:13 [notice] 23#23: exit
+2022/05/11 21:34:13 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/11 21:34:13 [notice] 1#1: worker process 24 exited with code 0
+2022/05/11 21:34:13 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 21:34:13 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/11 21:34:13 [notice] 1#1: worker process 23 exited with code 0
+2022/05/11 21:34:13 [notice] 1#1: worker process 22 exited with code 0
+2022/05/11 21:34:13 [notice] 1#1: worker process 25 exited with code 0
+2022/05/11 21:34:13 [notice] 1#1: exit
+2022/05/11 21:38:01 [notice] 1#1: using the "epoll" event method
+2022/05/11 21:38:01 [notice] 1#1: nginx/1.20.1
+2022/05/11 21:38:01 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2022/05/11 21:38:01 [notice] 1#1: OS: Linux 3.10.0-1127.el7.x86_64
+2022/05/11 21:38:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/11 21:38:01 [notice] 1#1: start worker processes
+2022/05/11 21:38:01 [notice] 1#1: start worker process 22
+2022/05/11 21:38:01 [notice] 1#1: start worker process 23
+2022/05/11 21:38:01 [notice] 1#1: start worker process 24
+2022/05/11 21:38:01 [notice] 1#1: start worker process 25
+2022/05/11 21:40:51 [error] 22#22: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.133, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.22.0.4:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 21:40:54 [error] 22#22: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.133, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.22.0.4:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 21:40:59 [error] 22#22: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.133, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.22.0.4:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 21:41:01 [error] 22#22: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.133, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.22.0.4:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 21:41:01 [error] 22#22: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.133, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.22.0.4:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 21:41:02 [error] 22#22: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.133, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.22.0.4:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 21:44:43 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/11 21:44:43 [notice] 23#23: gracefully shutting down
+2022/05/11 21:44:43 [notice] 24#24: gracefully shutting down
+2022/05/11 21:44:43 [notice] 23#23: exiting
+2022/05/11 21:44:43 [notice] 24#24: exiting
+2022/05/11 21:44:43 [notice] 22#22: gracefully shutting down
+2022/05/11 21:44:43 [notice] 22#22: exiting
+2022/05/11 21:44:43 [notice] 23#23: exit
+2022/05/11 21:44:43 [notice] 24#24: exit
+2022/05/11 21:44:43 [notice] 22#22: exit
+2022/05/11 21:44:43 [notice] 25#25: gracefully shutting down
+2022/05/11 21:44:43 [notice] 25#25: exiting
+2022/05/11 21:44:43 [notice] 25#25: exit
+2022/05/11 21:44:43 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/11 21:44:43 [notice] 1#1: worker process 22 exited with code 0
+2022/05/11 21:44:43 [notice] 1#1: worker process 23 exited with code 0
+2022/05/11 21:44:43 [notice] 1#1: worker process 24 exited with code 0
+2022/05/11 21:44:43 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 21:44:43 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/11 21:44:43 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/11 21:44:43 [notice] 1#1: worker process 25 exited with code 0
+2022/05/11 21:44:43 [notice] 1#1: exit
+2022/05/11 21:46:47 [notice] 1#1: using the "epoll" event method
+2022/05/11 21:46:47 [notice] 1#1: nginx/1.20.1
+2022/05/11 21:46:47 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2022/05/11 21:46:47 [notice] 1#1: OS: Linux 3.10.0-1127.el7.x86_64
+2022/05/11 21:46:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/11 21:46:47 [notice] 1#1: start worker processes
+2022/05/11 21:46:47 [notice] 1#1: start worker process 22
+2022/05/11 21:46:47 [notice] 1#1: start worker process 23
+2022/05/11 21:46:47 [notice] 1#1: start worker process 24
+2022/05/11 21:46:47 [notice] 1#1: start worker process 25
+2022/05/11 21:47:06 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.133, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.23.0.4:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 21:47:09 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.133, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.23.0.4:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 23:14:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/11 23:14:24 [notice] 24#24: gracefully shutting down
+2022/05/11 23:14:24 [notice] 23#23: gracefully shutting down
+2022/05/11 23:14:24 [notice] 24#24: exiting
+2022/05/11 23:14:24 [notice] 23#23: exiting
+2022/05/11 23:14:24 [notice] 22#22: gracefully shutting down
+2022/05/11 23:14:24 [notice] 22#22: exiting
+2022/05/11 23:14:24 [notice] 24#24: exit
+2022/05/11 23:14:24 [notice] 22#22: exit
+2022/05/11 23:14:24 [notice] 23#23: exit
+2022/05/11 23:14:24 [notice] 25#25: gracefully shutting down
+2022/05/11 23:14:24 [notice] 25#25: exiting
+2022/05/11 23:14:24 [notice] 25#25: exit
+2022/05/11 23:14:24 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/11 23:14:24 [notice] 1#1: worker process 22 exited with code 0
+2022/05/11 23:14:24 [notice] 1#1: worker process 24 exited with code 0
+2022/05/11 23:14:24 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 23:14:24 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/05/11 23:14:24 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/11 23:14:24 [notice] 1#1: worker process 23 exited with code 0
+2022/05/11 23:14:24 [notice] 1#1: worker process 25 exited with code 0
+2022/05/11 23:14:24 [notice] 1#1: exit
+2022/05/11 23:16:00 [notice] 1#1: using the "epoll" event method
+2022/05/11 23:16:00 [notice] 1#1: nginx/1.20.1
+2022/05/11 23:16:00 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2022/05/11 23:16:00 [notice] 1#1: OS: Linux 3.10.0-1127.el7.x86_64
+2022/05/11 23:16:00 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/11 23:16:00 [notice] 1#1: start worker processes
+2022/05/11 23:16:00 [notice] 1#1: start worker process 23
+2022/05/11 23:16:00 [notice] 1#1: start worker process 24
+2022/05/11 23:16:00 [notice] 1#1: start worker process 25
+2022/05/11 23:16:00 [notice] 1#1: start worker process 26
+2022/05/11 23:16:16 [error] 23#23: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.134, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.24.0.3:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 23:16:18 [error] 23#23: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.134, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.24.0.3:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 23:23:13 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/05/11 23:23:13 [notice] 23#23: gracefully shutting down
+2022/05/11 23:23:13 [notice] 25#25: gracefully shutting down
+2022/05/11 23:23:13 [notice] 25#25: exiting
+2022/05/11 23:23:13 [notice] 23#23: exiting
+2022/05/11 23:23:13 [notice] 24#24: gracefully shutting down
+2022/05/11 23:23:13 [notice] 24#24: exiting
+2022/05/11 23:23:13 [notice] 23#23: exit
+2022/05/11 23:23:13 [notice] 25#25: exit
+2022/05/11 23:23:13 [notice] 24#24: exit
+2022/05/11 23:23:13 [notice] 26#26: gracefully shutting down
+2022/05/11 23:23:13 [notice] 26#26: exiting
+2022/05/11 23:23:13 [notice] 26#26: exit
+2022/05/11 23:23:13 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/05/11 23:23:13 [notice] 1#1: worker process 25 exited with code 0
+2022/05/11 23:23:13 [notice] 1#1: worker process 23 exited with code 0
+2022/05/11 23:23:13 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 23:23:13 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/05/11 23:23:13 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/05/11 23:23:13 [notice] 1#1: worker process 24 exited with code 0
+2022/05/11 23:23:13 [notice] 1#1: signal 29 (SIGIO) received
+2022/05/11 23:23:13 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/05/11 23:23:13 [notice] 1#1: worker process 26 exited with code 0
+2022/05/11 23:23:13 [notice] 1#1: exit
+2022/05/11 23:24:33 [notice] 1#1: using the "epoll" event method
+2022/05/11 23:24:33 [notice] 1#1: nginx/1.20.1
+2022/05/11 23:24:33 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2022/05/11 23:24:33 [notice] 1#1: OS: Linux 3.10.0-1127.el7.x86_64
+2022/05/11 23:24:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/05/11 23:24:33 [notice] 1#1: start worker processes
+2022/05/11 23:24:33 [notice] 1#1: start worker process 23
+2022/05/11 23:24:33 [notice] 1#1: start worker process 24
+2022/05/11 23:24:33 [notice] 1#1: start worker process 25
+2022/05/11 23:24:33 [notice] 1#1: start worker process 26
+2022/05/11 23:24:42 [error] 23#23: *15 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.134, server: dnerhs.mspbs.gov.py, request: "GET /api/departamentos?pageSize=100 HTTP/1.1", upstream: "http://172.25.0.4:8080/api/departamentos?pageSize=100", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/11 23:24:52 [error] 23#23: *15 connect() failed (111: Connection refused) while connecting to upstream, client: 10.212.134.134, server: dnerhs.mspbs.gov.py, request: "POST /api/autenticar HTTP/1.1", upstream: "http://172.25.0.4:8080/api/autenticar", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/login"
+2022/05/13 13:28:11 [error] 23#23: *151 client intended to send too large body: 2770168 bytes, client: 192.168.1.16, server: dnerhs.mspbs.gov.py, request: "POST /api/file HTTP/1.0", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/instituciones/crear/1"
+2022/05/13 13:41:05 [error] 23#23: *310 client intended to send too large body: 2587407 bytes, client: 192.168.1.16, server: dnerhs.mspbs.gov.py, request: "POST /api/file HTTP/1.0", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/docsRespaldo/1"
+2022/06/02 19:04:36 [error] 23#23: *4119 client intended to send too large body: 2587407 bytes, client: 192.168.1.16, server: dnerhs.mspbs.gov.py, request: "POST /api/file HTTP/1.0", host: "dnerhs.mspbs.gov.py", referrer: "https://dnerhs.mspbs.gov.py/convenios/estudiantes/crear/4"
